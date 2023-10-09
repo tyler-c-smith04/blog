@@ -26,6 +26,18 @@ def function_name(parameters):
 ```
 
 * Parameters: In the parantheses after our function's name, we will input information. The code that follows underneath will define what our function's parameters (input values) do and what our desired outcome with those parameters are.
+* * Return: When we add input values into our function, we can output information using 'return'
+
+Let's walk through an example function together:
+
+We are going to start by calculating one of the easiest statistics in baseball: batting average.
+
+```
+\[
+\text{Batting Average} = \frac{\text{Hits}}{\text{At-Bats}}
+\]
+```
+
    
 
 
