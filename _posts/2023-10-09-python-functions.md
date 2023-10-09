@@ -5,10 +5,15 @@ author: Tyler Smith
 description: Create baseball functions
 image:
 --- 
+As a data scientist in training, I have found Python to be a great training environment. Python syntax is both readable and simple, allowing me to focus more time on exploring data than attempting to understand complex syntax and struggling through the headaches of debugging my code all the time. A fundamental part of most programming languages is the ability to create functions. In this tutorial, we are going to walk through the importance of creating our own functions, and practice using them with baseball applications.
 
-Studying statistics at BYU has challenged me in many ways. I've never considered myself to be a "numbers guy" and I don't know my way around a computer like some of statistics peers. Sometimes I think of myself as the "Struggling Statistician" because there have been more times than I count in my college career where I have asked myself if I am cut out to be a statistician/data scientist. Through my statistical struggles, I have had to frequently remind myself that my passion is what led me to this tumultuous path of learning how to code and use statistics to analyze data. This passion that I have is for sports. My dream is to work for a professional sports franchise and help them to strategize and get the most out of their team's performance through the use of effective data analysis.
+<h2>What is a Python function?</h2>
 
-My blog's mission is to share my love my passion for sports. I will strive to be unbiased in analysis, while not being afraid to show my true colors and shout-out the teams that I love (Let's go 'stros!). Along the way, I hope that I can inspire any other Struggling Statisticans, the students who feel like it takes them longer than their peers to learn new concepts but are determined to follow their passions and challenge themselves. Now, enough of all this inspirational mumbo-jumbo. Let's get started by learning how to create a basic function in Python.
+Simply put, Python functions take in data, process data, and returns data.
+
+<h2>Why do we use Python functions?</h2>
+
+
 
 ```python
 def 
