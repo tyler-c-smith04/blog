@@ -32,9 +32,10 @@ Let's walk through an example function together:
 
 We are going to start by calculating one of the easiest statistics in baseball: batting average.
 
-\[
-\text{Batting Average} = \frac{\text{Hits}}{\text{At-Bats}}
-\]
+Batting average is calculated by dividing Hits by At-Bats. Here is how we can create this function in Python:
+
+```
+```
 
    
 
