@@ -19,9 +19,8 @@ Functions make our lives easier when we code because they help us avoid re-writi
 
 We use the keyword 'def' to notify Python that we want to create a new function. Here is a look at a basic function template:
 
-```
+```python
 def function_name(parameters):
-
 ```
 
 
