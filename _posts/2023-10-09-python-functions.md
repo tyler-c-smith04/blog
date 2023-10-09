@@ -10,3 +10,8 @@ Functions keep us from re-writing the same code over and over in our work. If th
 
 **Defining a function**
 The first step is the most difficult (kidding): Come up with a descriptive name for the function.
+
+```python
+def 
+```
+
