@@ -25,6 +25,7 @@ def function_name(parameters):
     return result
 ```
 
+In the parantheses after our function's name, we will input information. The code that follows underneath will define what our function's parameters (input values) do and what our desired outcome with those parameters are.
 
 
 
