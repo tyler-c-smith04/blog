@@ -21,6 +21,8 @@ We use the keyword 'def' to notify Python that we want to create a new function.
 
 ```python
 def function_name(parameters):
+    # Code goes here!
+    return result
 ```
 
 
