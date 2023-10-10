@@ -17,7 +17,7 @@ Functions make our lives easier when we code because they help us avoid re-writi
 
 <h2>Creating functions</h2>
 
-We use the keyword 'def' to notify Python that we want to create a new function. Here is a look at a basic function template:
+We use the keyword 'def' to notify Python that we want to create a new function. After 'def', the function name, and the parameters, make sure to add a colon because the colon tells Python that we are going to add code that will process the data that we are adding in our parameters. Here is a look at a basic function template:
 
 ```python
 def function_name(parameters):
@@ -63,6 +63,9 @@ average = batting_avg(hits, at_bats)
 print(average) # Will output 0
 ```
 
+If statements can get tricky, but hopefully the if statement in the above code is easy to follow! Just like how we need to add a colon after we define a function at the beggining, we also need to add a colon to our if statement.
+
+Thanks for reading!
 
 
 
