@@ -26,7 +26,7 @@ def function_name(parameters):
 ```
 
 * Parameters: In the parantheses after our function's name, we will input information. The code that follows underneath will define what our function's parameters (input values) do and what our desired outcome with those parameters are.
-* * Return: When we add input values into our function, we can output information using 'return'
+* Return: When we add input values into our function, we can output information using 'return'
 
 Let's walk through an example function together:
 
@@ -35,29 +35,16 @@ We are going to start by calculating one of the easiest statistics in baseball: 
 Batting average is calculated by dividing Hits by At-Bats. Here is how we can create this function in Python:
 
 ```python
-def batting_average(hits, at_bats):
-    """
-    Calculate the batting average.
+def batting_average(hits, at_bats): # This function needs the user to add 2 parameters: hits and at_bats
+    return hits / at_bats # Returns a decimal between 0 and 1
 
-    Parameters:
-    - hits (int): Number of successful hits.
-    - at_bats (int): Number of times the player was at bat.
-
-    Returns:
-    - float: Batting average.
-    """
-    if at_bats == 0:  # To prevent division by zero
-        return 0
-    return hits / at_bats
-
-# Example usage:
+# Example
 hits = 50
 at_bats = 200
 average = batting_average(hits, at_bats)
-print(average)
+print(average) # Will output 0.250
 ```
 
-   
 
 
 
