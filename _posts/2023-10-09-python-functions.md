@@ -54,6 +54,7 @@ def batting_average(hits, at_bats):
 hits = 50
 at_bats = 200
 average = batting_average(hits, at_bats)
+print(average)
 ```
 
    
