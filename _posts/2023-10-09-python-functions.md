@@ -34,7 +34,26 @@ We are going to start by calculating one of the easiest statistics in baseball: 
 
 Batting average is calculated by dividing Hits by At-Bats. Here is how we can create this function in Python:
 
-```
+```python
+def batting_average(hits, at_bats):
+    """
+    Calculate the batting average.
+
+    Parameters:
+    - hits (int): Number of successful hits.
+    - at_bats (int): Number of times the player was at bat.
+
+    Returns:
+    - float: Batting average.
+    """
+    if at_bats == 0:  # To prevent division by zero
+        return 0
+    return hits / at_bats
+
+# Example usage:
+hits = 50
+at_bats = 200
+average = batting_average(hits, at_bats)
 ```
 
    
