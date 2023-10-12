@@ -47,6 +47,8 @@ print(average) # Will output 0.250
 
 Congratulations, you now know how to create a function to calculate batting average! However, can you think of any input values that could cause our function to not give us our desired result? Becoming data science masters requires us to keep our math skills sharp. Any value divided by zero is undefined and Python will give us an error that looks like this:
 
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/Error.png" alt="" style="width:500px;"/>
+
 The above error is what we will see if our at_bats parameter is equal to 0. If a player has 0 at bats in a season, we want our function to output a batting average of 0 instead of an error. Luckily, we can add to our previous function and make sure we get this desired result!
 
 ```python
