@@ -26,7 +26,7 @@ def function_name(parameters):
 ```
 
 * Parameters: In the parantheses after our function's name, we will input information. The code that follows underneath will define what our function's parameters (input values) do and what our desired outcome with those parameters are.
-* Return: When we add input values into our function, we can output information using 'return'
+* Return: When we add input values into our function, we can output information using 'return'.
 
 Let's walk through an example function together:
 
@@ -66,7 +66,9 @@ print(average) # Will output 0
 
 If statements can get tricky, but hopefully the if statement in the above code is easy to follow! Just like how we need to add a colon after we define a function at the beggining, we also need to add a colon to our if statement.
 
-Thanks for reading!
+<h2>Conclusion</h2>
+
+As you can see, creating functions in Python can be easy and help us organize our code in effective ways. The possibilities of Python functions are also endless! You can create a Python function to do anything that you can think of. I challenge you to use your time wisely when coding and Python, and start using functions! Happy coding!
 
 
 
