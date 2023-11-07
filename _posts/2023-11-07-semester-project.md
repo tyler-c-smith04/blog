@@ -34,4 +34,13 @@ Here is a simplified walkthrough of the webscraping function
   * soup.find finds the element <table> with the <team_schedule> id.
 
 4. Extract Column Headers
-  * Since the first row of the table are the column headers, a list comprehension iterates through all the rows (starting on the second row) and extracts the text from each cell (both <td> and <th> elements).
+ * Since the first row contains the column headers, a list comprehension is used to extract the text from each <th> element.
+
+5. Extract Game Data
+ * Starting on the second row, the function then iterates over all rows in the table and extracts all <th> and <td> elements.
+
+6. Create a Pandas Dataframe
+ * I use the 'games' list to create my dataframe.
+ * End the function by returning the dataframe.
+
+
