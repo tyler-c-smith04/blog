@@ -31,13 +31,13 @@ Here is a simplified walkthrough of the webscraping function
   * BeautifulSoup then joined the party to parse the content of the response provided by requests.
 
 3. Find the Table
-  * soup.find finds the element <table> with the <team_schedule> id.
+  * soup.find finds the element 'table' with the 'team_schedule' id.
 
 4. Extract Column Headers
- * Since the first row contains the column headers, a list comprehension is used to extract the text from each <th> element.
+ * Since the first row contains the column headers, a list comprehension is used to extract the text from each 'th' element.
 
 5. Extract Game Data
- * Starting on the second row, the function then iterates over all rows in the table and extracts all <th> and <td> elements.
+ * Starting on the second row, the function then iterates over all rows in the table and extracts all 'th' and 'td' elements.
 
 6. Create a Pandas Dataframe
  * I use the 'games' list to create my dataframe.
