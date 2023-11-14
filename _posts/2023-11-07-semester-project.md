@@ -14,7 +14,7 @@ deep into the Golden Era of Astros baseball to analyze all sorts of different me
 
 <h2>Data Collection and Cleaning</h2>
 
-Sports analytics nerds like myself know that [Baseball Reference](https://www.baseball-reference.com/) is the place to go for baseball data. Before scraping the data, I made sure to check the robots.txt to ensure that I am safe to scrape the data. **Make sure to always check the robots.txt file before scraping a url!** Thanks for joining my data ethics Ted Talk lecture. 
+Sports analytics nerds like myself know that [Baseball Reference](https://www.baseball-reference.com/) is the place to go for baseball data. Before scraping the data, I made sure to check the robots.txt to ensure that I am safe to scrape the data. **Make sure to always check the robots.txt file before scraping a url!** Thanks for joining my data ethics lecture. 
 
 Using the BeautifulSoup, requests, and pandas Python packages, I effectively created a dataframe of 1,032 rows and 20 columns containing Houston Astros regular season data between 2017-2023. I broke the websraping process into two steps to collect all the data that I wanted:
 
