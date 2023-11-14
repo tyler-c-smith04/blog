@@ -118,3 +118,9 @@ for year in years:
     season_dfs.append(df)
 ```
 
+<h2>Conclusion</h2>
+
+Now that you have seen how I gathered seven seasons' worth of Houston Astros regular season baseball results, stay tuned for my exploratory data analysis so that we can dive 
+deep into the Golden Era of Astros baseball. Feel free to check out my [GitHub Repository](https://github.com/tyler-c-smith04/semester_project) to see all of the code that I used
+to gather and clean my Astros data. Go Astros!
+
