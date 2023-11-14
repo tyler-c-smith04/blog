@@ -88,4 +88,31 @@ Create a Pandas Dataframe
     return df
 ```
 
+<h2>Loop to Clean Data</h2>
+
+Define a base URL and create an object for years
+ * Notice the curly brackets in the url. This for loop will start with 2023 and move back in time to collect the season data between 2017-2023.
+
+```python
+base_url = 'https://www.baseball-reference.com/teams/HOU/{}-schedule-scores.shtml'
+
+# Define the range of years you want to scrape
+years = range(2023, 2023-7, -1)  # This will create a range from 2023 to 2017
+```
+
+Loop over years
+ * Create a for loop to add each season to the base url
+ * Use the scrape_baseball_reference() as defined above to scrape each season's url
+ * Concatenate all season dataframes into one singular dataframe
+ * Add a Season column to the concatenated dataframe for easy data manipulation during analysis.
+
+```python
+# Loop over the years, scrape the data, and collect the DataFrames
+season_dfs = []
+for year in years:
+    url = base_url.format(year)
+    df = scrape_baseball_schedule(url)
+    df['Season'] = year  # Add a column for the year/season
+    season_dfs.append(df)
+```
 
