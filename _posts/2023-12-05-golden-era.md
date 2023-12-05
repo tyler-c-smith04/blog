@@ -24,4 +24,9 @@ in 2023.
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/average_game_time_by_season.png" alt="" style="width:600px;"/>
 
+<h2>Records by Season</h2>
+
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/season_overall_records.png" alt="" style="width:600px;"/>
+
+
 
