@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "386 Semester Project"
+title:  "Golden Era Data Cleaning"
 author: Tyler Smith
 description: My project will analyze the Golden Era of Houston Astros baseball.
 image:
