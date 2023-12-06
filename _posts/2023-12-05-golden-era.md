@@ -30,7 +30,7 @@ In a stark contrast from the early 2010's, the Astros have reeled off four 100 w
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/season_overall_records.png" alt="" style="width:600px;"/>
 
-The Astros regular season success has come at the expense of many. The only teams that have winning records in this seven year span against the Astros are the Dodgers, Brewers, Padres, and Reds. Each of these teams are from the National League so the Astros do not play them each season. Among all opponents in the American League, the Astros have a winning percentage of .500 or better.
+The Astros regular season success has come at the expense of many. The only teams that have winning records in this seven year span against the Astros are the Dodgers, Brewers, Padres, and Reds. Each of these teams are from the National League so the Astros do not play them each season, leading to smaller sample sizes than American League divisions. Among all opponents in the American League, the Astros have a winning percentage of .500 or better.
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/houston_astros_win_loss_record.png" alt="" style="width:600px;"/>
 
@@ -38,5 +38,8 @@ The only division in the league that the Astros do not have a winning record aga
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/win_percentage_by_division.png" alt="" style="width:600px;"/>
 
+<h2>Kings of the AL West</h2>
 
+As members of the AL West divison, the Astros play Texas, Seattle, Oakland, and Los Angeles thirteen times each. The Astros' .642 win percentage their division speaks volumes to the success that the Astros have had against their divisional foes, whom they see more than any other teams during the season. The Astros have spent a whomping 709 games over seven seasons as the the first place team in their division. 
 
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/division_ranks.png" alt="" style="width:600px;"/>
