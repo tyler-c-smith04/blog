@@ -34,5 +34,9 @@ The Astros regular season success has come at the expense of many. The only team
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/houston_astros_win_loss_record.png" alt="" style="width:600px;"/>
 
+The only division in the league that the Astros do not have a winning record against is the NL Central, where the Reds and Brewers both play. Regular season dominance against the American League has translated into postseason success, as the Astros have advanced to the American League Championship Series seven straight years and represented the American League in the World Series four times in this time span.
+
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/win_percentage_by_division.png" alt="" style="width:600px;"/>
+
 
 
