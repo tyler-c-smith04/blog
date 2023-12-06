@@ -42,7 +42,7 @@ The only division in the league that the Astros do not have a winning record aga
 
 As members of the AL West divison, the Astros play Texas, Seattle, Oakland, and Los Angeles thirteen times each per season. The Astros' .642 win percentage their division speaks volumes to the success that the Astros have had against their divisional foes, whom they see more than any other teams during the season. The Astros have spent a whomping 709 games over seven seasons as the the first place team in their division. 
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/division_ranks.png" alt="" style="width:600px;"/>
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/division_ranks.png" alt="" style="width:800px;"/>
 
 The Astros spent almost all of the 2017 season in first place in their division, reaching a lead of 21 games at one point. In contrast, the Astros spent most of the 2023 season in either second or third place in the division, but still ended up winning the AL West due to finishing the regular season with the same record as the Texas Rangers and owning the tie-breaker against Texas.
 
