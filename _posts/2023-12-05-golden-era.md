@@ -24,9 +24,15 @@ in 2023.
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/average_game_time_by_season.png" alt="" style="width:600px;"/>
 
-<h2>Records by Season</h2>
+<h2>Season Records</h2>
+
+In a stark contrast from the early 2010's, the Astros have reeled off four 100 win seasons between 2017 and 2023. The Astros have won at least 90 games in each season, with the exception of a shortened 2020 season where teams only played a 60 game season.
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/season_overall_records.png" alt="" style="width:600px;"/>
+
+The Astros regular season success has come at the expense of many. The only teams that have winning records in this seven year span against the Astros are the Dodgers, Brewers, Padres, and Reds. Each of these teams are from the National League so the Astros do not play them each season. Among all opponents in the American League, the Astros have a winning percentage of .500 or better.
+
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/houston_astros_win_loss_record.png" alt="" style="width:600px;"/>
 
 
 
