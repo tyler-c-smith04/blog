@@ -48,8 +48,6 @@ The Astros have enjoyed divisional success particularly against the Los Angeles 
 
 The 2023 season shed light on the emergence of the Texas Rangers and Seattle Mariners as threats for the Astros in the years to come. Big-name free agency signings like Jacob DeGrom, Nathan Eovaldi, Cory Seager, and Marcus Semien have set the stage for an intense in-state rivalry for years to come. The gritty Mariners never seem to go away and seem to step up to the plate (no pun intended) when they match up with Houston. Regarding the A's and the Angels: The A's are relocating to Las Vegas, and the Angels are likely to lose Shohei Ohtani to free agency. Those are the only thoughts I have about them moving forward.
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/al_west_table.png" alt="" style="width:800px;"/>
-
 The Astros spent almost all of the 2017 season in first place in their division, reaching a lead of 21 games at one point. In contrast, the Astros spent most of the 2023 season in either second or third place in the division, but still ended up winning the AL West due to finishing the regular season with the same record as the Texas Rangers and owning the tie-breaker against Texas.
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/division_leads_deficits.png" alt="" style="width:800px;"/>
