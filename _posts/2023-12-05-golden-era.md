@@ -44,12 +44,18 @@ As members of the AL West divison, the Astros play Texas, Seattle, Oakland, and 
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/division_ranks.png" alt="" style="width:800px;"/>
 
-The Astros have enjoyed divisional success particularly against the Los Angeles Angels. Despite having two of the best baseball players in the MLB (Shohei Ohtani and Mike Trout), the Astros have tallied a winning percentage of .694 against the Angels. As an Astros fan, I dislike the Mariners just because that is part of the gig. However, I respect them for their grit each time I watch them face the Astros. Consequentially, the Mariners have put up the biggest fight among AL West opponents, dropping the Astros' win percentage against them to .618 (still pretty good, though).
+The Astros have enjoyed divisional success particularly against the Los Angeles Angels. Despite having two of the best baseball players in the MLB (Shohei Ohtani and Mike Trout), the Astros have tallied a win percentage of .694 against the Angels. As an Astros fan, I dislike the Mariners just because that is part of the gig. However, I respect them for their grit each time I watch them face the Astros. Consequentially, the Mariners have put up the biggest fight among AL West opponents, dropping the Astros' win percentage against them to .618 (still pretty good, though).
 
 The 2023 season shed light on the emergence of the Texas Rangers and Seattle Mariners as threats for the Astros in the years to come. Big-name free agency signings like Jacob DeGrom, Nathan Eovaldi, Cory Seager, and Marcus Semien have set the stage for an intense in-state rivalry for years to come. The gritty Mariners never seem to go away and seem to step up to the plate (no pun intended) when they match up with Houston. Regarding the A's and the Angels: The A's are relocating to Las Vegas, and the Angels are likely to lose Shohei Ohtani to free agency. Those are the only thoughts I have about them moving forward.
 
 The Astros spent almost all of the 2017 season in first place in their division, reaching a lead of 21 games at one point. In contrast, the Astros spent most of the 2023 season in either second or third place in the division, but still ended up winning the AL West due to finishing the regular season with the same record as the Texas Rangers and owning the tie-breaker against Texas.
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/division_leads_deficits.png" alt="" style="width:800px;"/>
+
+<h2>Elite Offense and Lockdown Defense</h2>
+
+Since 2017, the Astros' pitching staff has pitched 68 shutout games (0 runs allowed). According to [Baseball Reference](https://www.baseball-reference.com/leagues/majors/bat.shtml), the average runs scored per game between 2017 and 2023 is 4.57 runs. The Astros have held opponents below the league average number of runs per games 27% of their games in this time span. The Astros' offense has scored more than the league average 66% of their games. These numbers testify of the ability for Houston's offense to put up runs in quickly and the ability of their pitching staff and defense to put the clamps on opposing hitters.
+
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/runs.png" alt="" style="width:800px;"/>
 
 
