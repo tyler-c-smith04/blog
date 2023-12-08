@@ -32,7 +32,7 @@ In a stark contrast from the early 2010's, the Astros have reeled off four 100 w
 
 The Astros regular season success has come at the expense of many. The only teams that have winning records in this seven year span against the Astros are the Dodgers, Brewers, Padres, and Reds. Each of these teams are from the National League so the Astros do not play them each season, leading to smaller sample sizes than American League divisions. Among all opponents in the American League, the Astros have a winning percentage of .500 or better.
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/houston_astros_win_loss_record.png" alt="" style="width:600px;"/>
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/opp_records.png" alt="" style="width:600px;"/>
 
 The only division in the league that the Astros do not have a winning record against is the NL Central, where the Reds and Brewers both play. Regular season dominance against the American League has translated into postseason success, as the Astros have advanced to the American League Championship Series seven straight years and represented the American League in the World Series four times in this time span.
 
