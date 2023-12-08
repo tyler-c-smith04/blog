@@ -58,4 +58,6 @@ Since 2017, the Astros' pitching staff has pitched 68 shutout games (0 runs allo
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/runs.png" alt="" style="width:800px;"/>
 
+<h2>Conclusion</h2>
 
+I hope that you found my post about the Golden Era of Astros Baseball. Baseball is one of the greatest games in the world and I appreciate the way that data analytics and statistics have enhanced baseball lovers' understanding of the game. Whether you love them or hate them, the Astros have been a staple in Major League Baseball and will (hopefully) continue to be so in the future. Feel free to check out my ([GitHub Repository](https://www.baseball-reference.com/leagues/majors/bat.shtml)) to see how I put this blog post together. Go 'Stros!
