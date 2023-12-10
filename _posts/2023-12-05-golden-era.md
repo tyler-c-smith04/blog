@@ -3,7 +3,7 @@ layout: post
 title:  "Golden Era Analysis"
 author: Tyler Smith
 description: It's time to dive deep into the numbers behind the Golden Era of Houston Astros baseball.
-image:
+image: /assets/images/home_plate.jpg
 ---
 
 <h2>Introduction and Motivation</h2>
