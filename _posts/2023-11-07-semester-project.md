@@ -3,7 +3,7 @@ layout: post
 title:  "Golden Era Data Cleaning"
 author: Tyler Smith
 description: My project will analyze the Golden Era of Houston Astros baseball.
-image:
+image: /assets/images/baseball.jpg
 ---
 
 <h2>Introduction and Motivation</h2>
