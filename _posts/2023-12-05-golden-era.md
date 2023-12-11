@@ -40,7 +40,7 @@ The only division in the league that the Astros do not have a winning record aga
 
 <h2>Kings of the AL West</h2>
 
-As members of the AL West divison, the Astros play Texas, Seattle, Oakland, and Los Angeles thirteen times each per season. The Astros' .642 win percentage their division speaks volumes to the success that the Astros have had against their divisional foes, whom they see more than any other teams during the season. The Astros have spent a whomping 709 games over seven seasons as the the first place team in their division. 
+As members of the AL West divison, the Astros play Texas, Seattle, Oakland, and Los Angeles thirteen times each per season. The Astros' .642 win percentage against their division speaks volumes to the success that the Astros have had against their divisional foes, whom they see more than any other teams during the season. The Astros have spent a whomping 709 games over seven seasons as the the first place team in their division. 
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/division_ranks.png" alt="" style="width:800px;"/>
 
