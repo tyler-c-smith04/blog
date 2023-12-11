@@ -120,7 +120,5 @@ for year in years:
 
 <h2>Conclusion</h2>
 
-Now that you have seen how I gathered seven seasons' worth of Houston Astros regular season baseball results, stay tuned for my exploratory data analysis so that we can dive 
-deep into the Golden Era of Astros baseball. Feel free to check out my [GitHub Repository](https://github.com/tyler-c-smith04/semester_project) to see all of the code that I used
-to gather and clean my Astros data. Go Astros!
+I hope that you were able to learn something about data collection and data cleansing from my post. For all of the data scientists in training, go explore different websites to find data that interests you and give webscraping a try. It is a valuable tool that will allow you to cater data analysis to your interests. Now that you have seen how I gathered seven seasons' worth of Houston Astros regular season baseball results, stay tuned for my exploratory data analysis so that we can dive deep into the Golden Era of Astros baseball. Feel free to check out my [GitHub Repository](https://github.com/tyler-c-smith04/semester_project) to see all of the code that I used to gather and clean my Astros data. Go 'Stros!
 
