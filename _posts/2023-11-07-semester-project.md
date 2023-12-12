@@ -23,18 +23,18 @@ Using the BeautifulSoup, requests, and pandas Python packages, I effectively cre
 
 <h2>Webscraping Function</h2>
 
-Here is a simplified walkthrough of the webscraping function
+Here is a simplified walkthrough of the webscraping function:
 
 **Define Function**
-  * I defined my function as scrape_baseball_schedule(), which takes in a url parameter.
+  * I defined my function as scrape_baseball_schedule(), which takes in a url parameter
 
 ```python
 def scrape_baseball_schedule(url):
 ```
 
 **Get HTML Content**
-  * Using the requests package, I received the HTML content from the provided url.
-  * BeautifulSoup then joined the party to parse the content of the response provided by requests.
+  * Using the requests package, I received the HTML content from the provided url
+  * BeautifulSoup then joined the party to parse the content of the response provided by requests
 
 ```python
     response = requests.get(url)
@@ -42,7 +42,7 @@ def scrape_baseball_schedule(url):
 ```
 
 **Find the Table**
-  * soup.find finds the element 'table' with the 'team_schedule' id.
+  * soup.find finds the element 'table' with the 'team_schedule' id
 
 ```python
     table = soup.find('table', id='team_schedule')
@@ -50,14 +50,14 @@ def scrape_baseball_schedule(url):
 ```
 
 **Extract Column Headers**
- * Since the first row contains the column headers, a list comprehension is used to extract the text from each 'th' element.
+ * Since the first row contains the column headers, a list comprehension is used to extract the text from each 'th' element
 
 ```python
 header = [th.get_text(strip=True) for th in rows[0].find_all('th')]
 ```
 
 **Extract Game Data**
- * Starting on the second row, the function then iterates over all rows in the table and extracts all 'th' and 'td' elements.
+ * Starting on the second row, the function then iterates over all rows in the table and extracts all 'th' and 'td' elements
 
 ```python
     games = []
@@ -75,8 +75,8 @@ header = [th.get_text(strip=True) for th in rows[0].find_all('th')]
 ```
 
 **Create a Pandas Dataframe**
- * I use the 'games' list to create my dataframe.
- * End the function by returning the dataframe.
+ * I use the 'games' list to create my dataframe
+ * End the function by returning the dataframe
 
 ```python
         games.append(row_data)
@@ -93,7 +93,7 @@ header = [th.get_text(strip=True) for th in rows[0].find_all('th')]
 <h2>Loop to Clean Data</h2>
 
 **Define a base URL and create an object for years**
- * Notice the curly brackets in the url. This for loop will start with 2023 and move back in time to collect the season data between 2017-2023.
+ * Notice the curly brackets in the url. This for loop will start with 2023 and move back in time to collect the season data between 2017-2023
 
 ```python
 base_url = 'https://www.baseball-reference.com/teams/HOU/{}-schedule-scores.shtml'
@@ -106,7 +106,7 @@ years = range(2023, 2023-7, -1)  # This will create a range from 2023 to 2017
  * Create a for loop to add each season to the base url
  * Use the scrape_baseball_reference() as defined above to scrape each season's url
  * Concatenate all season dataframes into one singular dataframe
- * Add a Season column to the concatenated dataframe for easy data manipulation during analysis.
+ * Add a Season column to the concatenated dataframe for easy data manipulation during analysis
 
 ```python
 # Loop over the years, scrape the data, and collect the DataFrames
