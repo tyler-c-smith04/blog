@@ -50,7 +50,7 @@ The 2023 season shed light on the emergence of the Texas Rangers and Seattle Mar
 
 The Astros spent almost all of the 2017 season in first place in their division, reaching a lead of 21 games at one point. In contrast, the Astros spent most of the 2023 season in either second or third place in the division, but still ended up winning the AL West due to finishing the regular season with the same record as the Texas Rangers and owning the tie-breaker against Texas.
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/division_leads_deficits.png" alt="" style="width:800px;"/>
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/2017_2023_division_leads.png.png" alt="" style="width:800px;"/>
 
 <h2>Elite Offense and Lockdown Defense</h2>
 
