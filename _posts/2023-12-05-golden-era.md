@@ -54,7 +54,7 @@ The Astros spent almost all of the 2017 season in first place in their division,
 
 <h2>Elite Offense and Lockdown Defense</h2>
 
-Since 2017, the Astros' pitching staff has pitched 68 shutout games (0 runs allowed). According to [Baseball Reference](https://www.baseball-reference.com/leagues/majors/bat.shtml), the average runs scored per game between 2017 and 2023 is 4.57 runs. The Astros' offense has scored more than the league average 66% of their games. These numbers testify of the ability for Houston's offense to put up runs in quickly and the ability of their pitching staff and defense to put the clamps on opposing hitters.
+Since 2017, the Astros' pitching staff has pitched 68 shutout games (0 runs allowed). According to [Baseball Reference](https://www.baseball-reference.com/leagues/majors/bat.shtml), the average runs scored per game between 2017 and 2023 is 4.57 runs. The Astros' offense has scored more than the league average in 66% of their games. These numbers testify of the ability for Houston's offense to put up runs in quickly and the ability of their pitching staff and defense to put the clamps on opposing hitters.
 
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/runs.png" alt="" style="width:800px;"/>
 
