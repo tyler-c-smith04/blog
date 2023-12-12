@@ -11,7 +11,7 @@ image: /assets/images/home_plate.jpg
 I remember the days when I was too afraid to admit that my favorite baseball team was the Houston Astros. My beloved 'Stros were the laughing stock of Major League Baseball.
 Between 2011 and 2013, the Astros suffered three straight 100 loss seasons. How pathetic! 2014 wasn't much better (only 92 losses, woohoo!!!), but things started to turn around in 2015
 when the team made the playoffs. 2015 and 2016 gave rise to some of MLB's newest stars and 2017 marked their arrival to baseball's spotlight when they won the 2017 World Series
-championship. Between 2017 and 2023, the Astros have been to seven straight ALCS's and have won two World Series. This project has been designed analyze the numbers behind the Astros'
+championship. Between 2017 and 2023, the Astros have been to seven straight ALCS's and have won two World Series. This project has been designed to analyze the numbers behind the Astros'
 historic run, deemed as the "Golden Era of Astros Baseball". Let's get into it.
 
 <h2>Pitch Clock</h2>
@@ -60,4 +60,4 @@ Since 2017, the Astros' pitching staff has pitched 68 shutout games (0 runs allo
 
 <h2>Conclusion</h2>
 
-I hope that you found my post about the Golden Era of Astros Baseball. Baseball is one of the greatest games in the world and I appreciate the way that data analytics and statistics have enhanced baseball lovers' understanding of the game. The next time you are watching a baseball game on TV and hear the broadcaster spit statistical wisdom, take a moment to show respect for the data scientist behind those numbers! Feel free to check out my [GitHub Repository](https://github.com/tyler-c-smith04/semester_project) to see how I put this blog post together. Go 'Stros!
+I hope that you found my post about the Golden Era of Astros Baseball to be insightful. Baseball is one of the greatest games in the world and I appreciate the way that data analytics and statistics have enhanced baseball lovers' understanding of the game. The next time you are watching a baseball game on TV and hear the broadcaster spit statistical wisdom, take a moment to show respect for the data scientist behind those numbers! Feel free to check out my [GitHub Repository](https://github.com/tyler-c-smith04/semester_project) to see how I put this blog post together. Go 'Stros!
